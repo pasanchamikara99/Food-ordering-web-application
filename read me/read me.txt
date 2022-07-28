@@ -1,0 +1,14 @@
+Admin User Name - admin
+Admin Password - admin
+Database name - happy_meal
+
+
+Group ID - IT_MTR_Y1_2021_G1
+Topic : Online Food Delivery
+
+Group Members - 
+Sasith Dewasurendra-IT21039140
+H.G. Sachin Lakshan-IT21105616
+A.M. Iman Bandara Athauda-IT21049354
+K.L. pasan Chamikara-IT21065330
+H.G. Yasiru Ravishan-IT21125270
