@@ -25,3 +25,8 @@ SLIIT 1st year 2nd Semster Group Project
 
 
 ### admin side
+![Screenshot (289)](https://user-images.githubusercontent.com/75413812/209740104-2ce54ec1-6531-464f-b813-551c5fc4b389.png)
+![Screenshot (290)](https://user-images.githubusercontent.com/75413812/209740115-4575963d-f496-4c49-ada8-741cf36dc5d8.png)
+![Screenshot (291)](https://user-images.githubusercontent.com/75413812/209740121-b4a26c41-edba-4752-a871-4f3bc3ba19e3.png)
+![Screenshot (292)](https://user-images.githubusercontent.com/75413812/209740133-f0b00d86-903d-45d2-8ee0-1d6f6a7ab33a.png)
+![Screenshot (293)](https://user-images.githubusercontent.com/75413812/209740143-dc261b61-46ea-4295-817d-2b2ef1e34f4f.png)
